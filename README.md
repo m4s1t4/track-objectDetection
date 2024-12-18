@@ -4,9 +4,7 @@ This project provides a Python implementation for tracking and counting vehicles
 
 # Demo
 
-![Raw video](.vehicles.mp4)
 ![Single Frame](./assets/download.png)
-![Final Result](./assets/result.mp4)
 
 ## Features
 
