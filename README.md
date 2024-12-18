@@ -6,7 +6,7 @@ This project provides a Python implementation for tracking and counting vehicles
 
 - Raw video:
 
-https://github.com/user-attachments/assets/9e6c0001-a77e-42f1-be59-4a8d352abcaf
+https://github.com/user-attachments/9e6c0001-a77e-42f1-be59-4a8d352abcaf
 
 - Single Frame
 
@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/9e6c0001-a77e-42f1-be59-4a8d352abcaf
 
 - Final Result
 
-https://github.com/user-attachments/assets/3a0a8dbe-515b-40e3-ad68-332cd7d138d4
+https://github.com/user-attachments/3a0a8dbe-515b-40e3-ad68-332cd7d138d4
 
 ## Features
 
