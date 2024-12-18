@@ -3,21 +3,18 @@
 This project provides a Python implementation for tracking and counting vehicles in video footage using YOLOv8 for object detection and ByteTrack for tracking. The solution is designed to process video input, detect vehicles, track their movement across frames, and count them as they pass predefined lines.
 
 # Demo
-- Raw video:
 
+- Raw video:
 
 https://github.com/user-attachments/assets/9e6c0001-a77e-42f1-be59-4a8d352abcaf
 
-
 - Single Frame
-![Single Frame](./assets/download.png)
+
+![download](https://github.com/user-attachments/assets/225172ad-8921-482a-bdc1-84aebe380f18)
 
 - Final Result
 
-https://github.com/user-attachments/assets/8fc6a02d-d110-4d8c-9822-5fccd0d76ba4
-
-
-
+https://github.com/user-attachments/assets/3a0a8dbe-515b-40e3-ad68-332cd7d138d4
 
 ## Features
 
